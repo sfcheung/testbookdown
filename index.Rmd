@@ -1,0 +1,11 @@
+--- 
+title: "Test Bookdown"
+author: "Author"
+date: "`r Sys.Date()`"
+output:
+  bookdown::gitbook: default
+---
+
+# Preface
+
+Test preface
